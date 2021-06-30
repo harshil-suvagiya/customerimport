@@ -2,10 +2,11 @@
     "name": "bv/customerimport",
     "description": "BV CustomerImport",
     "require": {
-      "php": ">=7.4"
+      "php": ">=7.4",
+      "another-vendor/package": "1.0.0"
     },
     "type": "magento2-module",
-    "version": "1.1.1",
+    "version": "1.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
