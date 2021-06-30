@@ -24,6 +24,6 @@
           "BV\\CustomerImport\\": ""
         }
     },
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
