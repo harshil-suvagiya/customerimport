@@ -2,7 +2,7 @@
     "name": "bv/customerimport",
     "description": "BV CustomerImport",
     "require": {
-      "php": "~5.6.0|7.0.2|~7.0.6",
+      "php": ">=7.4",
       "magento/module-store": "0.74.0-beta4",
       "magento/module-theme": "0.74.0-beta4",
       "magento/module-widget": "0.74.0-beta4",
